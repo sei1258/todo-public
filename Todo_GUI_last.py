@@ -1,6 +1,6 @@
 
 import flet as ft
-from Todo_storage import load_tasks, save_tasks
+from todo_storage import load_tasks, save_tasks
 
 def main(page: ft.Page):
     #入力部品
